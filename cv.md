@@ -24,7 +24,6 @@ HTMN5, CSS3, Adobe Photoshop, English language
 
 # Work experience:
 
-I have graduated from high school in 2021.
 I have not worked anywhere.
 
 # Education:
