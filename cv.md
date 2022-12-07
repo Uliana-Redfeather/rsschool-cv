@@ -29,7 +29,7 @@ I have not worked anywhere.
 
 # Education:
 
-High School
+High school
 
 IT Girls school course on-going
 
