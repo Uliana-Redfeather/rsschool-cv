@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool cv
+# https://Uliana-Redfeather.github.io/rsschool-cv/cv
