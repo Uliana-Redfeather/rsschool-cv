@@ -1,1 +1,1 @@
-# https://Uliana-Redfeather.github.io/rsschool-cv/cv
+# https://github.com/Uliana-Redfeather/rsschool-cv/blob/gh-pages/cv.md
