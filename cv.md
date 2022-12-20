@@ -12,7 +12,7 @@ Email: ulianaredfeather@gmail.com
 
 # Briefly about myself:
 
-Since I have just graduated high school, I do not have many accomplishments, other than a successfully passed CAE exam. I am currently attending two Frontend courses and am fully willing to learn as much about Frontend as it takes. I want to become a Frontend developer.
+Since I have just graduated high school, I do not have many accomplishments, other than a successfully passed CAE exam. I am currently attending two Frontend courses and am fully willing to learn as much about Frontend as it takes.
 
 # Abilities:
 
@@ -24,12 +24,11 @@ HTMN5, CSS3, Adobe Photoshop, English language
 
 # Work experience:
 
-I have graduated from high school in 2021.
 I have not worked anywhere.
 
 # Education:
 
-High School
+High school
 
 IT Girls school course on-going
 
